@@ -8,4 +8,6 @@ This is about my education
 This is me
 
 ## GD 
-Gaming Developer
+Game Developer
+
+Game Developer is very cool 
