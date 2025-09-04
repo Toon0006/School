@@ -10,4 +10,5 @@ This is me
 ## GD 
 Game Developer
 
-Game Developer is very cool 
+# Why GD?
+Because it is very cool 
